@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T06:29:52.391697+00:00",
-  "total_candidates": 631,
-  "alive": 544,
-  "dead": 87,
+  "generated_at": "2026-08-18T06:22:09.477006+00:00",
+  "total_candidates": 632,
+  "alive": 548,
+  "dead": 84,
   "match_tv_candidates": {
     "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,

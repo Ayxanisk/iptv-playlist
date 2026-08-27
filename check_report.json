@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-26T06:26:44.149411+00:00",
+  "generated_at": "2026-08-27T16:59:03.302678+00:00",
   "total_candidates": 641,
-  "alive": 553,
-  "dead": 88,
+  "alive": 546,
+  "dead": 95,
   "match_tv_candidates": {
-    "http://stream.mcquack.net/112/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
-    "http://stream.mcquack.net/188/index.m3u8": {
+    "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Igra (576p)"
+      "name": "Match! Boets (576p)"
     },
     "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
+    },
+    "http://stream.mcquack.net/188/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Igra (576p)"
     },
     "http://stream.mcquack.net/169/index.m3u8": {
       "alive": true,

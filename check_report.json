@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T10:39:25.024721+00:00",
+  "generated_at": "2026-09-02T10:05:21.675227+00:00",
   "total_candidates": 641,
-  "alive": 545,
-  "dead": 96,
+  "alive": 546,
+  "dead": 95,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -19,15 +19,15 @@
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/169/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (720p)"
-    },
     "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
+    },
+    "http://stream.mcquack.net/169/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (720p)"
     },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": true,

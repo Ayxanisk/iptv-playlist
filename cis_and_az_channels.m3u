@@ -39,6 +39,8 @@ https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 group-title="CIS / Armenia" tvg-id="Armenia2.am@SD",Armenia 2 (1080p)
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 group-title="CIS / Armenia" tvg-id="ArmeniaPremium.am@SD",Armenia Premium (720p)
+http://stream.mcquack.net/123/index.m3u8
 #EXTINF:-1 group-title="CIS / Armenia" tvg-id="ArmeniaTVSatellite.am@SD",Armenia TV Satellite (576p)
 http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 group-title="CIS / Armenia" tvg-id="FirstChannelNews.am@SD",First Channel News
@@ -57,6 +59,8 @@ http://ott-7.sevstar.net/belarus24/index.m3u8
 https://streaming.thestream.cyou/live/7003.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus24.by@HD",Belarus-24 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@SD",Belarus-5 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@SD",Belarus-5 (576p) [Geo-blocked]
 https://streaming.thestream.cyou/live/7001.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@HD",Belarus-5 HD (1080p)
@@ -76,9 +80,9 @@ http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="Vitebsk.by@SD",Vitebsk
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@Internet",Беларусь 5 Интернет (1080p) [Not 24/7]
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@Internet",Беларусь 5 Интернет (1080p) [Not 24/7]
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="CIS / Belarus" tvg-id="Belarus5.by@Internet",Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="CIS / Belarus" tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD (720p)
@@ -98,17 +102,17 @@ https://stream.sstv.ge/live/sstv/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="EuronewsGeorgia.ge@SD",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="Formula.ge@SD",Formula (1080p)
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 group-title="CIS / Georgia" tvg-id="Formula.ge@SD",Formula (1080p)
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 group-title="CIS / Georgia" tvg-id="Formula.ge@SD",Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="ImediTV.ge@SD",Imedi TV
 http://nue01-edge01.itdc.ge/imedihd/mpegts
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="ImediTV.ge@SD",Imedi TV (1080p)
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="PalitraNews.ge@SD",Palitra News (480p) [Not 24/7]
-https://livestream.palitra.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 group-title="CIS / Georgia" tvg-id="PalitraNews.ge@SD",Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="CIS / Georgia" tvg-id="PalitraNews.ge@SD",Palitra News (480p) [Not 24/7]
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="Rustavi2.ge@SD",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:-1 group-title="CIS / Georgia" tvg-id="TVPirveli.ge@SD",TV Pirveli
@@ -198,9 +202,9 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="black.ru@SD",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="red.ru@SD",.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="red.ru@SD",.red (576p)
 http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="red.ru@SD",.red (576p)
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="red.ru@HD",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="scifi.ru@SD",.sci-fi (576p)
@@ -238,9 +242,9 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="AmediaHit.ru@SD",Amedia Hit (576p)
 http://flussonic.linkintel.ru/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Ani.ru@SD",Ani (576p)
-http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="Ani.ru@SD",Ani (576p)
 http://stream.mcquack.net/306/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="Ani.ru@SD",Ani (576p)
+http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Arsenal.ru@SD",Arsenal (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="AutoPlus.ru@SD",Auto Plus
@@ -316,9 +320,9 @@ https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Channel8Novosibirsk.ru@SD",Channel 8 Novosibirsk (480i)
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ChannelOne.ru@SD",Channel One (576p)
-http://45.153.24.78/1TV/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="ChannelOne.ru@SD",Channel One (576p)
 http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="ChannelOne.ru@SD",Channel One (576p)
+http://45.153.24.78/1TV/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ChannelOne.ru@HD",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ChannelOne.ru@HD",Channel One HD (720p)
@@ -341,8 +345,6 @@ http://stream.mcquack.net/238/index.m3u8
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="DanceHits80.ru@SD",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="DetvoraPlus.ru@HD",Detvora+ (1080p)
-https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Dikayaokhota.ru@HD",Dikaya okhota HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Dikayarybalka.ru@HD",Dikaya rybalka HD (1080p)
@@ -432,9 +434,9 @@ http://stream.mcquack.net/305/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="GulliGirl.ru@SD",Gulli Girl (720p)
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Hit.ru@HD",Hit HD (1080p)
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="Hit.ru@HD",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="Hit.ru@HD",Hit HD (1080p)
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="HorosheeKino.ru@SD",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="India.ru@SD",India (576p)
@@ -442,9 +444,9 @@ https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
-http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="InsaytTV.ru@4K",Insayt TV (1080p)
@@ -490,9 +492,9 @@ http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinomix.ru@SD",Kinomix (576p)
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinomix.ru@SD",Kinomix (576p)
 http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinomix.ru@SD",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinomix.ru@SD",Kinomix (576p)
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Kinopokaz.ru@SD",Kinopokaz
@@ -650,9 +652,9 @@ https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
 http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
-http://stream.mcquack.net/86/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
 http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
+http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
@@ -676,9 +678,9 @@ https://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="NTV.ru@SD",NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="NTV.ru@HD",NTV HD (1080p)
-https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="NTV.ru@HD",NTV HD (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="NTV.ru@HD",NTV HD (1080p)
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="NTV.ru@HD",NTV HD (1080p)
 http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="NTVLaw.ru@SD",NTV Law (576p)
@@ -807,16 +809,12 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RENTVInternational.ru@SD",REN TV International (576p)
 https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="RT.ru@SD",RT (720p)
-http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RTBalkan.ru@SD",RT Balkan (1080p)
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RTBalkan.ru@SD",RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RT.ru@HD",RT HD (1080p)
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="RTenEspanol.ru@SD",RT en Espanol (1080p)
-http://15.204.246.24:8080/RTHD/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RTenEspanol.ru@SD",RT en Espanol (576p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RTenEspanol.ru@SD",RT en Espanol (576p)
@@ -839,6 +837,8 @@ https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RUTV.ru@SD",RU.TV SD (576p)
 http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="Radio1.ru@SD",Radio 1 (720p) [Geo-blocked]
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RadioRossii.ru@HD",Radio Rossii (720p)
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RadostMoya.ru@SD",Radost Moya (576p)
@@ -876,9 +876,9 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RussiaK.ru@SD",Russia-K (576p)
 http://stream.mcquack.net/229/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RussiaK.ru@SD",Russia-K (576p)
-https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="RussiaK.ru@SD",Russia-K (576p)
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="RussiaK.ru@SD",Russia-K (576p)
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RussiaK.ru@HD",Russia-K HD (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="RussianMusicBox.ru@SD",Russian MusicBox (576p)
@@ -897,8 +897,6 @@ https://vod.tuva.ru/rusroman/index.m3u8
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Ryzhiy.ru@SD",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="SONGTVRussia.ru@SD",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="STARTAir.ru@SD",START Air (576p)
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="STARTAir.ru@SD",START Air (576p)
@@ -1012,9 +1010,9 @@ http://88.212.15.19/live/svoboda/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="T24.ru@SD",T24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="T24.ru@SD",T24 (576p)
-http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="T24.ru@SD",T24 (576p)
 http://stream.mcquack.net/209/index.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="T24.ru@SD",T24 (576p)
+http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="T24.ru@SD",T24 (576p)
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="TNT.ru@SD",TNT (576p)
@@ -1121,22 +1119,6 @@ http://stream.mcquack.net/93/index.m3u8
 https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Vmirezhivotnykh.ru@SD",V mire zhivotnykh (1080p)
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetEuropeanMovies.ru@HD",Velvet. European Movies (1080p)
-https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetGoldenCollection.ru@HD",Velvet. Golden Collection (1080p)
-https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetMentovskiyeSerialy.ru@HD",Velvet. Mentovskiye Serialy (1080p)
-https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetScary.ru@HD",Velvet. Scary (1080p)
-https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetSeriesHits.ru@HD",Velvet. Series Hits (1080p)
-https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetSovetskoeKino.ru@HD",Velvet. Sovetskoe Kino (1080p)
-https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetSvaty.ru@HD",Velvet. Svaty (1080p)
-https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="VelvetWorldSeries.ru@HD",Velvet. World Series (1080p)
-https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="VestiFM.ru@HD",Vesti FM (720p)
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="VitrinaTV.ru@SD",Vitrina TV (720p)
@@ -1151,6 +1133,8 @@ http://stream.mcquack.net/237/index.m3u8
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ZagorodnayaZhizn.ru@SD",Zagorodnaya Zhizn
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="ZagorodnayaZhizn.ru@SD",Zagorodnaya Zhizn (576p)
+http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ZdorovoeTV.ru@SD",Zdorovoe TV (576p)
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="Zhara.ru@SD",Zhara (576p)
@@ -1283,8 +1267,6 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="NTM.ru@SD",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="CIS / Russia" tvg-id="NTS.ru@SD",НТС (Севастополь) (1080p) [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
@@ -1355,6 +1337,8 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="HuzurTV.ru@SD",Хузур ТВ (1080p) [Not 24/7]
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="CIS / Russia" tvg-id="ShansonTV.ru@SD",Шансон ТВ (512p) [Geo-blocked]
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ShansonTV.ru@SD",Шансон ТВ (576p) [Geo-blocked]
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 group-title="CIS / Russia" tvg-id="ShchyolkovskoeTV.ru@SD",Щёлковское ТВ (576p) [Not 24/7]

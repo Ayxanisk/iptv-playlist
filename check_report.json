@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-16T10:25:04.473058+00:00",
+  "generated_at": "2026-09-17T10:34:41.768104+00:00",
   "total_candidates": 827,
-  "alive": 709,
-  "dead": 118,
+  "alive": 710,
+  "dead": 117,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
-    "http://stream.mcquack.net/188/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Igra (576p)"
-    },
     "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
+    },
+    "http://stream.mcquack.net/188/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Igra (576p)"
     },
     "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
@@ -44,15 +44,15 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Planeta (576p)"
-    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
+    },
+    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Planeta (576p)"
     },
     "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,

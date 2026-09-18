@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-17T10:34:41.768104+00:00",
-  "total_candidates": 827,
-  "alive": 710,
-  "dead": 117,
+  "generated_at": "2026-09-18T10:10:48.991762+00:00",
+  "total_candidates": 1033,
+  "alive": 913,
+  "dead": 120,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
-    "http://stream.mcquack.net/112/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
+    },
+    "http://stream.mcquack.net/112/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     },
     "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
@@ -39,11 +39,6 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://45.132.87.69:8080/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": true,
       "reason": "HEAD 200",
@@ -54,10 +49,35 @@
       "reason": "HEAD 200",
       "name": "Match! Planeta (576p)"
     },
+    "http://45.132.87.69:8080/match/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
     "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (1080p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Igra HD (1080p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Arena (576p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     }
   }
 }

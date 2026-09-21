@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-20T10:14:09.265969+00:00",
-  "total_candidates": 1033,
-  "alive": 871,
-  "dead": 162,
+  "generated_at": "2026-09-21T11:17:54.391471+00:00",
+  "total_candidates": 1034,
+  "alive": 875,
+  "dead": 159,
   "match_tv_candidates": {
-    "http://stream.mcquack.net/112/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
+    },
+    "http://stream.mcquack.net/112/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
@@ -39,15 +39,15 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Planeta (576p)"
-    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
+    },
+    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Planeta (576p)"
     },
     "http://45.132.87.69:8080/match/index.m3u8": {
       "alive": true,
@@ -58,6 +58,11 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     },
     "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
       "alive": true,
@@ -73,11 +78,6 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra HD (1080p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
     }
   }
 }

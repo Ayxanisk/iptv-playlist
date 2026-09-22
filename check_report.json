@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T11:17:54.391471+00:00",
-  "total_candidates": 1034,
-  "alive": 875,
-  "dead": 159,
+  "generated_at": "2026-09-22T10:28:36.996885+00:00",
+  "total_candidates": 1038,
+  "alive": 880,
+  "dead": 158,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -59,11 +59,6 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
@@ -78,6 +73,11 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra HD (1080p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     }
   }
 }

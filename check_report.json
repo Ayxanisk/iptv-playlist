@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T10:40:15.044750+00:00",
+  "generated_at": "2026-09-25T10:43:50.705307+00:00",
   "total_candidates": 1041,
-  "alive": 880,
-  "dead": 161,
+  "alive": 871,
+  "dead": 170,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -39,6 +39,11 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
+    "http://45.132.87.69:8080/match/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
     "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
       "alive": true,
       "reason": "HEAD 200",
@@ -49,35 +54,30 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://45.132.87.69:8080/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
     "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+    "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Igra HD (1080p)"
+      "name": "Match! Ultra (1080p)"
     },
     "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
+    "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Ultra (1080p)"
+      "name": "Match! Igra HD (1080p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     }
   }
 }

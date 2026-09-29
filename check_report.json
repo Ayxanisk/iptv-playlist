@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-28T12:12:48.875968+00:00",
-  "total_candidates": 1045,
-  "alive": 716,
+  "generated_at": "2026-09-29T11:43:55.685607+00:00",
+  "total_candidates": 1048,
+  "alive": 719,
   "dead": 329,
   "match_tv_candidates": {
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
-    },
-    "http://stream.mcquack.net/188/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Igra (576p)"
     },
     "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
     },
-    "http://stream.mcquack.net/169/index.m3u8": {
+    "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Ultra (720p)"
+      "name": "Match! Igra (576p)"
+    },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Strana (576p)"
     },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": false,
       "reason": "status 404",
       "name": "Match! Strana (576p)"
+    },
+    "http://stream.mcquack.net/169/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (720p)"
     },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,
@@ -64,20 +64,20 @@
       "reason": "status 403",
       "name": "Match! Ultra (1080p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
+    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
       "alive": false,
       "reason": "status 403",
-      "name": "Match! Arena (576p)"
+      "name": "Match! Boets (576p)"
     },
     "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
       "alive": false,
       "reason": "status 403",
       "name": "Match! Igra HD (1080p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
+    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
       "alive": false,
       "reason": "status 403",
-      "name": "Match! Boets (576p)"
+      "name": "Match! Arena (576p)"
     }
   }
 }

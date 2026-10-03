@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-10-02T11:30:12.481143+00:00",
+  "generated_at": "2026-10-03T10:46:06.245355+00:00",
   "total_candidates": 1072,
-  "alive": 731,
-  "dead": 341,
+  "alive": 729,
+  "dead": 343,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
+    "http://stream.mcquack.net/188/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Igra (576p)"
+    },
     "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
     },
-    "http://stream.mcquack.net/188/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Igra (576p)"
+    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
+      "alive": false,
+      "reason": "status 404",
+      "name": "Match! Strana (576p)"
     },
     "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
@@ -29,12 +34,12 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
     },
-    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
-      "alive": false,
-      "reason": "status 404",
-      "name": "Match! Strana (576p)"
-    },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
+    "http://45.132.87.69:8080/match/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
@@ -48,11 +53,6 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Planeta (576p)"
-    },
-    "http://45.132.87.69:8080/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
     },
     "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,

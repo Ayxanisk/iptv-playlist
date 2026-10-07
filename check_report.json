@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T12:21:15.219998+00:00",
-  "total_candidates": 1092,
-  "alive": 749,
-  "dead": 343,
+  "generated_at": "2026-10-07T12:13:03.754294+00:00",
+  "total_candidates": 1100,
+  "alive": 754,
+  "dead": 346,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -14,15 +14,15 @@
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
+    },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Strana (576p)"
     },
     "http://stream.mcquack.net/169/index.m3u8": {
       "alive": true,
@@ -44,12 +44,12 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
+    "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://tv.tuva.ru/machtv/index.m3u8": {
+    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
@@ -64,15 +64,15 @@
       "reason": "status 403",
       "name": "Match! Ultra (1080p)"
     },
-    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Arena (576p)"
-    },
     "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
       "alive": false,
       "reason": "status 403",
       "name": "Match! Igra HD (1080p)"
+    },
+    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
+      "alive": false,
+      "reason": "status 403",
+      "name": "Match! Arena (576p)"
     },
     "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
       "alive": false,

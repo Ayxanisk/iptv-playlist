@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-10T11:30:53.521589+00:00",
-  "total_candidates": 1100,
-  "alive": 760,
-  "dead": 340,
+  "generated_at": "2026-10-11T11:44:46.210444+00:00",
+  "total_candidates": 941,
+  "alive": 758,
+  "dead": 183,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
     },
-    "http://stream.mcquack.net/112/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
+    "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
+      "name": "Match! Boets (576p)"
     },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": false,
       "reason": "status 404",
+      "name": "Match! Strana (576p)"
+    },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
     },
     "http://stream.mcquack.net/169/index.m3u8": {
@@ -54,35 +54,20 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "http://tv.tuva.ru/machtv/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Boets (576p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Ultra (1080p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Igra HD (1080p)"
-    },
-    "http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Arena (576p)"
-    },
     "http://31.148.5.241/kanal_3/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (1080p)"
+    },
+    "http://192.162.64.99:5000/play/a02b/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Premier (480p) [Geo-blocked]"
+    },
+    "http://tv.tuva.ru/machtv/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
     }
   }
 }

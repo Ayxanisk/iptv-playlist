@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T13:05:27.862573+00:00",
-  "total_candidates": 941,
-  "alive": 750,
-  "dead": 191,
+  "generated_at": "2026-10-14T10:46:54.102449+00:00",
+  "total_candidates": 942,
+  "alive": 742,
+  "dead": 200,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -24,15 +24,15 @@
       "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
     },
-    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
-      "alive": false,
-      "reason": "status 404",
-      "name": "Match! Strana (576p)"
-    },
     "http://stream.mcquack.net/169/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
+    },
+    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
+      "alive": false,
+      "reason": "status 404",
+      "name": "Match! Strana (576p)"
     },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,
@@ -66,7 +66,7 @@
     },
     "http://192.162.64.99:5000/play/a02b/index.m3u8": {
       "alive": false,
-      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f9d0830cad0>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
+      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f0e305b9c70>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
       "name": "Match! Premier (480p) [Geo-blocked]"
     }
   }

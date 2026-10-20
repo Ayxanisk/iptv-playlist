@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T11:26:38.844513+00:00",
+  "generated_at": "2026-10-20T10:33:20.425368+00:00",
   "total_candidates": 914,
-  "alive": 654,
-  "dead": 260,
+  "alive": 643,
+  "dead": 271,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -14,25 +14,25 @@
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
     },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Strana (576p)"
+    },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
+    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
+      "alive": false,
+      "reason": "status 404",
       "name": "Match! Strana (576p)"
     },
     "http://stream.mcquack.net/169/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
-    },
-    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
-      "alive": false,
-      "reason": "status 404",
-      "name": "Match! Strana (576p)"
     },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,
@@ -44,6 +44,11 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
+    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
+      "alive": false,
+      "reason": "status 403",
+      "name": "Match! Planeta (576p)"
+    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": false,
       "reason": "status 403",
@@ -54,11 +59,6 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Planeta (576p)"
-    },
     "http://31.148.5.241/kanal_3/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
@@ -66,7 +66,7 @@
     },
     "http://192.162.64.99:5000/play/a02b/index.m3u8": {
       "alive": false,
-      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f5510384d10>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
+      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f4704ace2d0>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
       "name": "Match! Premier (480p) [Geo-blocked]"
     }
   }

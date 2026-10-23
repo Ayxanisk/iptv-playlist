@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T10:47:09.146111+00:00",
-  "total_candidates": 916,
-  "alive": 649,
-  "dead": 267,
+  "generated_at": "2026-10-23T10:38:47.896227+00:00",
+  "total_candidates": 905,
+  "alive": 651,
+  "dead": 254,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -39,14 +39,14 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Ultra (576p)"
-    },
     "http://45.132.87.69:8080/match/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
+    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
+      "alive": false,
+      "reason": "status 403",
       "name": "Match! Ultra (576p)"
     },
     "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
@@ -66,7 +66,7 @@
     },
     "http://192.162.64.99:5000/play/a02b/index.m3u8": {
       "alive": false,
-      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f7eb898f650>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
+      "reason": "HTTPConnectionPool(host='192.162.64.99', port=5000): Max retries exceeded with url: /play/a02b/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='192.162.64.99', port=5000) at 0x7f7ab88e3fb0>, 'Connection to 192.162.64.99 timed out. (connect timeout=8)'))",
       "name": "Match! Premier (480p) [Geo-blocked]"
     }
   }

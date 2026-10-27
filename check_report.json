@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T11:44:37.028968+00:00",
-  "total_candidates": 904,
-  "alive": 642,
-  "dead": 262,
+  "generated_at": "2026-10-27T11:12:21.897436+00:00",
+  "total_candidates": 905,
+  "alive": 650,
+  "dead": 255,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -39,11 +39,6 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Ultra (576p)"
-    },
     "http://45.132.87.69:8080/match/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
@@ -54,14 +49,19 @@
       "reason": "status 403",
       "name": "Match! Planeta (576p)"
     },
+    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
+      "alive": false,
+      "reason": "status 403",
+      "name": "Match! Ultra (576p)"
+    },
     "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
     "http://31.148.5.241/kanal_3/index.m3u8": {
-      "alive": false,
-      "reason": "HTTPConnectionPool(host='31.148.5.241', port=80): Max retries exceeded with url: /kanal_3/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='31.148.5.241', port=80) at 0x7f4740f4f8f0>, 'Connection to 31.148.5.241 timed out. (connect timeout=8)'))",
+      "alive": true,
+      "reason": "HEAD 200",
       "name": "Match! Ultra (1080p)"
     }
   }

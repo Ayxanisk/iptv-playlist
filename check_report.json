@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T11:12:21.897436+00:00",
-  "total_candidates": 905,
-  "alive": 650,
-  "dead": 255,
+  "generated_at": "2026-10-28T11:46:04.650741+00:00",
+  "total_candidates": 885,
+  "alive": 652,
+  "dead": 233,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -19,11 +19,6 @@
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": false,
       "reason": "status 404",
@@ -33,6 +28,11 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
+    },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Strana (576p)"
     },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,
@@ -63,6 +63,11 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (1080p)"
+    },
+    "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Premier (576p)"
     }
   }
 }

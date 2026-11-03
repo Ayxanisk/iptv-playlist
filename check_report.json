@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T14:00:50.936549+00:00",
-  "total_candidates": 887,
-  "alive": 645,
-  "dead": 242,
+  "generated_at": "2026-11-03T13:09:31.013971+00:00",
+  "total_candidates": 878,
+  "alive": 646,
+  "dead": 232,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -24,15 +24,15 @@
       "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
     },
-    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
-      "alive": false,
-      "reason": "status 404",
-      "name": "Match! Strana (576p)"
-    },
     "http://stream.mcquack.net/169/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
+    },
+    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
+      "alive": false,
+      "reason": "status 404",
+      "name": "Match! Strana (576p)"
     },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,

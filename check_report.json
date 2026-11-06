@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T13:39:28.617756+00:00",
+  "generated_at": "2026-11-06T13:22:31.146024+00:00",
   "total_candidates": 878,
-  "alive": 652,
-  "dead": 226,
+  "alive": 653,
+  "dead": 225,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -19,19 +19,14 @@
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Premier (576p)"
     },
-    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
-      "alive": false,
-      "reason": "status 404",
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
       "name": "Match! Strana (576p)"
     },
     "http://stream.mcquack.net/169/index.m3u8": {
@@ -39,15 +34,20 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (720p)"
     },
-    "http://45.132.87.69:8080/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
+    "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
+      "alive": false,
+      "reason": "status 404",
+      "name": "Match! Strana (576p)"
     },
     "http://31.148.5.241/kanal_3/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (1080p)"
+    },
+    "http://45.132.87.69:8080/match/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
     },
     "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
       "alive": false,

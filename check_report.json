@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T12:00:53.204340+00:00",
+  "generated_at": "2026-11-08T12:21:03.839407+00:00",
   "total_candidates": 881,
-  "alive": 654,
-  "dead": 227,
+  "alive": 633,
+  "dead": 248,
   "match_tv_candidates": {
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
@@ -19,15 +19,15 @@
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Premier (576p)"
+    },
+    "http://stream.mcquack.net/143/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Strana (576p)"
     },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": false,
@@ -44,22 +44,7 @@
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
     },
-    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Planeta (576p)"
-    },
-    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
-      "alive": false,
-      "reason": "status 403",
-      "name": "Match! Ultra (576p)"
-    },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
-    "http://tv.tuva.ru/machtv/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
@@ -68,6 +53,21 @@
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (1080p)"
+    },
+    "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv": {
+      "alive": false,
+      "reason": "status 403",
+      "name": "Match! Planeta (576p)"
+    },
+    "http://tv.tuva.ru/machtv/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
+    "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
+      "alive": false,
+      "reason": "status 403",
+      "name": "Match! Ultra (576p)"
     }
   }
 }

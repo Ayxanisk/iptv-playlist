@@ -1,55 +1,45 @@
 {
-  "generated_at": "2026-11-10T13:53:47.911411+00:00",
+  "generated_at": "2026-11-11T13:06:13.063888+00:00",
   "total_candidates": 880,
-  "alive": 641,
-  "dead": 239,
+  "alive": 625,
+  "dead": 255,
   "match_tv_candidates": {
-    "http://stream.mcquack.net/112/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Boets (576p)"
-    },
     "http://stream.mcquack.net/163/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Arena (576p)"
+    },
+    "http://stream.mcquack.net/112/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Boets (576p)"
     },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Igra (576p)"
     },
-    "http://stream.mcquack.net/143/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Strana (576p)"
-    },
     "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Premier (576p)"
     },
-    "http://stream.mcquack.net/169/index.m3u8": {
+    "http://stream.mcquack.net/143/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
-      "name": "Match! Ultra (720p)"
+      "name": "Match! Strana (576p)"
     },
     "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8": {
       "alive": false,
       "reason": "status 404",
       "name": "Match! Strana (576p)"
     },
+    "http://stream.mcquack.net/169/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (720p)"
+    },
     "http://45.132.87.69:8080/match/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
-    "http://31.148.5.241/kanal_3/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (1080p)"
-    },
-    "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Ultra (576p)"
@@ -59,14 +49,24 @@
       "reason": "status 403",
       "name": "Match! Planeta (576p)"
     },
+    "http://tv.tuva.ru/machtv/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": false,
       "reason": "status 403",
       "name": "Match! Ultra (576p)"
     },
-    "http://tv.tuva.ru/machtv/index.m3u8": {
+    "http://31.148.5.241/kanal_3/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
+      "name": "Match! Ultra (1080p)"
+    },
+    "http://flussonic.linkintel.ru/match/index.m3u8": {
+      "alive": false,
+      "reason": "HTTPConnectionPool(host='flussonic.linkintel.ru', port=80): Max retries exceeded with url: /match/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='flussonic.linkintel.ru', port=80) at 0x759204195b20>, 'Connection to flussonic.linkintel.ru timed out. (connect timeout=8)'))",
       "name": "Match! Ultra (576p)"
     }
   }

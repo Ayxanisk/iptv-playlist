@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-14T12:38:53.205516+00:00",
-  "total_candidates": 890,
-  "alive": 625,
-  "dead": 265,
+  "generated_at": "2026-11-15T13:04:43.356060+00:00",
+  "total_candidates": 885,
+  "alive": 623,
+  "dead": 262,
   "match_tv_candidates": {
-    "http://stream.mcquack.net/163/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Arena (576p)"
-    },
     "http://stream.mcquack.net/112/index.m3u8": {
       "alive": true,
       "reason": "HEAD 200",
       "name": "Match! Boets (576p)"
+    },
+    "http://stream.mcquack.net/163/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Arena (576p)"
     },
     "http://stream.mcquack.net/188/index.m3u8": {
       "alive": true,
@@ -54,19 +54,19 @@
       "reason": "status 403",
       "name": "Match! Planeta (576p)"
     },
-    "http://tv.tuva.ru/machtv/index.m3u8": {
-      "alive": true,
-      "reason": "HEAD 200",
-      "name": "Match! Ultra (576p)"
-    },
     "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv": {
       "alive": false,
       "reason": "status 403",
       "name": "Match! Ultra (576p)"
     },
+    "http://tv.tuva.ru/machtv/index.m3u8": {
+      "alive": true,
+      "reason": "HEAD 200",
+      "name": "Match! Ultra (576p)"
+    },
     "http://flussonic.linkintel.ru/match/index.m3u8": {
       "alive": false,
-      "reason": "HTTPConnectionPool(host='flussonic.linkintel.ru', port=80): Max retries exceeded with url: /match/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='flussonic.linkintel.ru', port=80) at 0x74188cd11760>, 'Connection to flussonic.linkintel.ru timed out. (connect timeout=8)'))",
+      "reason": "HTTPConnectionPool(host='flussonic.linkintel.ru', port=80): Max retries exceeded with url: /match/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='flussonic.linkintel.ru', port=80) at 0x7bb314104920>, 'Connection to flussonic.linkintel.ru timed out. (connect timeout=8)'))",
       "name": "Match! Ultra (576p)"
     },
     "http://s1.merlive.am/matchplaneta/index.m3u8": {
